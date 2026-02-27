@@ -10,6 +10,7 @@ namespace TrabajoAutonomo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Primer cambio del trabajo autonomo");
         }
     }
 }
