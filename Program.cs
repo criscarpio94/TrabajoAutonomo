@@ -11,6 +11,7 @@ namespace TrabajoAutonomo
         static void Main(string[] args)
         {
             Console.WriteLine("Primer cambio del trabajo autonomo");
+            Console.WriteLine("Segundo cambio del trabajo autonomo");
         }
     }
 }
